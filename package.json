@@ -1,0 +1,21 @@
+{
+  "name": "logger",
+  "version": "0.1.0",
+  "description": "A simple logger for node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rxsto/logger.git"
+  },
+  "keywords": [
+    "nodejs",
+    "logger"
+  ],
+  "author": "Rxsto <oz@farfrom.social> (https://rxsto.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rxsto/logger/issues"
+  },
+  "homepage": "https://github.com/Rxsto/logger#readme"
+}
+
